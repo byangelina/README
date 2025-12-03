@@ -1,15 +1,35 @@
 <h1 align="center">Hi 👋, I'm Angela</h1>
 
-- 📫 Puedes encontrarme en mis redes sociales o escribirme a **ang.urrutia.alv@gmail.com**  
-- 👩‍💻 Soy publicista de formación y desarrolladora web por vocación; hoy trabajo de forma independiente y también soy parte de una agencia de marketing digital.  
-- 🎨 Me muevo entre dos mundos: la creatividad publicitaria y la lógica del código. Me encanta crear experiencias que mezclen estética, estrategia y tecnología.  
-- 🌱 Siempre estoy aprendiendo algo nuevo, desde frameworks modernos hasta nuevas tendencias en diseño digital.  
-- 🕹️ Disfruto la programación, los videojuegos, la ilustración, el café bien cargado y entrenar para resetear la cabeza.
+<h2> Sobre mí </h2>
+
+👩‍💻 Soy publicista profesional con experiencia en marketing digital, donde trabajé creando contenido, redactando y diseñando piezas audiovisuales y gráficas para distintas marcas. Con el tiempo descubrí que mi curiosidad por la tecnología creció lo suficiente como para cambiar de rumbo, así que inicié mi camino en el desarrollo.
+
+Mientras estudiaba publicidad tomé cursos en CoderHouse, primero como Community Manager y luego en Desarrollo Front-End. Ahí aprendí HTML, CSS, JavaScript, React, Bootstrap y el uso de APIs. Esa etapa me mostró que podía unir creatividad con código, y desde entonces tuve claro que quería dedicarme al desarrollo.
+
+Hoy estudio Analista Programador, enfocada en fortalecer la lógica y la estructura detrás de lo que construyo, sin perder la mirada creativa que me acompaña desde siempre. Busco desarrollar soluciones que funcionen bien y también cuenten algo.
+
+
+<h3>🌐 Portfolio Web</h3>
+
+Sitio personal (haciendo modificaciones) con HTML, CSS y animaciones.
+🔗 Link: próximamente
+📁 Repo: próximamente
+
+🧮 Proyecto a programcaión y matemática: medición de valorización de terrenos y viviendas en el futuro.
+📁 Repo: próximamente
+
+Mi primer proyecto funcional con lógica pura.
+📁 Repo: próximamente
+
+<h2> Un poquito más de mí </h2>
+-🕹️ Disfruto de la programación, los videojuegos, la ilustración, el café y entrenar para resetear la cabeza.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/angela-urrutia-álvarez-549931207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-<a href="https://www.instagram.com/g_r_e_e_e_e_e_n/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+  
+<a href="https://www.instagram.com/yor_lune/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+  
 <a href="https://www.behance.net/angieurrutiapuf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" height="30" width="40" /></a>
 </p>
 
