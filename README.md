@@ -1,28 +1,28 @@
 <h1 align="center">Hi 👋, I'm Angela</h1>
 
-<h2> Sobre mí </h2>
+<h2> About Me  </h2>
 
-👩‍💻 Soy publicista profesional con experiencia en marketing digital, donde trabajé creando contenido, redactando y diseñando piezas audiovisuales y gráficas para distintas marcas. Con el tiempo descubrí que mi curiosidad por la tecnología creció lo suficiente como para cambiar de rumbo, así que inicié mi camino en el desarrollo.
+👩‍💻 I am a professional advertiser with experience in digital marketing, where I worked creating content, writing, and designing audiovisual pieces and advertising graphics for various brands. Over time, my curiosity for technology grew strong enough to change my career path, leading me to begin my journey into development.
 
-Mientras estudiaba publicidad tomé cursos en CoderHouse, primero como Community Manager y luego en Desarrollo Front-End. Ahí aprendí HTML, CSS, JavaScript, React, Bootstrap y el uso de APIs. Esa etapa me mostró que podía unir creatividad con código, y desde entonces tuve claro que quería dedicarme al desarrollo.
+While studying advertising, I took courses at CoderHouse — first in Community Management and later in Front-End Development. There I learned HTML, CSS, JavaScript, React, Bootstrap, and API integration. That experience showed me that creativity and code could coexist, and from that moment I knew I wanted to move fully into tech.
 
-Hoy estudio Analista Programador, enfocada en fortalecer la lógica y la estructura detrás de lo que construyo, sin perder la mirada creativa que me acompaña desde siempre. Busco desarrollar soluciones que funcionen bien y también cuenten algo.
+I am currently studying to become a Programming Analyst, focusing on strengthening the logic and structure behind what I build, without losing the creative perspective that has always been part of me. I aim to develop solutions that work well and also tell a story.
 
 
-<h3>🌐 Portfolio Web</h3>
+<h3>🌐 Web Portfolio</h3>
 
-Sitio personal (haciendo modificaciones) con HTML, CSS y animaciones.
-🔗 Link: próximamente
-📁 Repo: próximamente
+Personal website (currently being updated) built with HTML, CSS, and animations.
+🔗 Link: coming soon
+📁 Repo: coming soon
 
-🧮 Proyecto a programcaión y matemática: medición de valorización de terrenos y viviendas en el futuro.
-📁 Repo: próximamente
+🧮 Programming & math project: a future valuation tool for land and housing.
+📁 Repo: coming soon
 
-Mi primer proyecto funcional con lógica pura.
-📁 Repo: próximamente
+My first functional project built with pure logic.
+📁 Repo: coming soon
 
-<h2> Un poquito más de mí </h2>
--🕹️ Disfruto de la programación, los videojuegos, la ilustración, el café y entrenar para resetear la cabeza.
+<h2>A little more about me</h2>
+-🕹️ I enjoy programming, video games, illustration, coffee, and training to clear my mind.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
